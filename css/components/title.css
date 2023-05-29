@@ -11,3 +11,9 @@
     transform: scale(1.08)
 }
 
+.title.-second{
+    display: block;
+    color: #FFF;
+    text-align: center;
+    text-shadow: none;
+}
