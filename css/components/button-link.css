@@ -1,4 +1,4 @@
-.button {
+.button-link {
     color:#FFFFFF;
     text-decoration: none;
     text-align: center;
@@ -15,6 +15,6 @@
     transition: 0.3s;
 }
 
-.button:hover{
+.button-link:hover{
     transform: scale(1.08)
 }

@@ -1,4 +1,4 @@
-.action{
+.action-square{
     display: inline-flex;
     align-items: center;
     color:#FFFFFF;
@@ -9,7 +9,7 @@
     margin-right: 30px;
 }
 
-.action::before{
+.action-square::before{
     content: "";
     display: inline-block;
     background-color: #FF002A;
